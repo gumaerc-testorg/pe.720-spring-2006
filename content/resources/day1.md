@@ -2,8 +2,13 @@
 content_type: resource
 description: Lecture handout on class policies, and an exercise to demonstrate and
   practice complex lifts.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/pe-720-weight-training-spring-2006/2e80ce4afcc2495afe8b7126981cd0e6_day1.pdf
+file: /media/courses/pe-720-weight-training-spring-2006/2e80ce4afcc2495afe8b7126981cd0e6_day1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Day 1
 uid: 2e80ce4a-fcc2-495a-fe8b-7126981cd0e6
