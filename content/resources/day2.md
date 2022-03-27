@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 96340cb3-df30-faca-8e02-b90f42a224c0
 resourcetype: Document
 title: Day 2
 uid: e14ea1f0-12c4-4cef-7c3e-ad5770ee1f74
