@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides lecture handouts for the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -27,7 +28,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction, Demonstration and Practice of Complex Lifts (Press, Squat) ([PDF]({{< baseurl >}}/resources/day1))
+Introduction, Demonstration and Practice of Complex Lifts (Press, Squat) ({{% resource_link 2e80ce4a-fcc2-495a-fe8b-7126981cd0e6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +37,7 @@ Introduction, Demonstration and Practice of Complex Lifts (Press, Squat) ([PDF](
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Complete Introduction, Demonstration and Practice of Lower Body Lifts ([PDF]({{< baseurl >}}/resources/day2))
+Complete Introduction, Demonstration and Practice of Lower Body Lifts ({{% resource_link e14ea1f0-12c4-4cef-7c3e-ad5770ee1f74 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +46,7 @@ Complete Introduction, Demonstration and Practice of Lower Body Lifts ([PDF]({{<
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Demonstration and Practice of First Half of Upper Body Lifts ([PDF]({{< baseurl >}}/resources/day3))
+Demonstration and Practice of First Half of Upper Body Lifts ({{% resource_link dd300677-2cb0-1ea4-166c-9e9e94a8bfbb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +55,7 @@ Demonstration and Practice of First Half of Upper Body Lifts ([PDF]({{< baseurl 
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Demonstration and Practice of Remaining Upper Body Lifts ([PDF]({{< baseurl >}}/resources/day4))
+Demonstration and Practice of Remaining Upper Body Lifts ({{% resource_link 30b60990-4d45-1532-d9c4-dcd8d60ce4c7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +64,7 @@ Demonstration and Practice of Remaining Upper Body Lifts ([PDF]({{< baseurl >}}/
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Partner Selection and First Day of Lifting ([PDF]({{< baseurl >}}/resources/day5))
+Partner Selection and First Day of Lifting ({{% resource_link 99b21c54-d3bf-10f1-cdf3-8d6c9c4bf212 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
