@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture handout on class policies, and an exercise to demonstrate and
   practice complex lifts.
-file: /courses/pe-720-weight-training-spring-2006/2e80ce4afcc2495afe8b7126981cd0e6_day1.pdf
+file: /ol-ocw-studio-app/courses/pe-720-weight-training-spring-2006/2e80ce4afcc2495afe8b7126981cd0e6_day1.pdf
 file_size: 38068
 file_type: application/pdf
 learning_resource_types:
