@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture handout on demonstration and practice of upper body lifts.
-file: /ol-ocw-studio-app/courses/pe-720-weight-training-spring-2006/30b609904d451532d9c4dcd8d60ce4c7_day4.pdf
+file: /courses/pe-720-weight-training-spring-2006/30b609904d451532d9c4dcd8d60ce4c7_day4.pdf
 file_size: 27728
 file_type: application/pdf
 learning_resource_types:
