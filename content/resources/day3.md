@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture handout on upper body isolation exercises.
-file: /ol-ocw-studio-app/courses/pe-720-weight-training-spring-2006/dd3006772cb01ea4166c9e9e94a8bfbb_day3.pdf
+file: /courses/pe-720-weight-training-spring-2006/dd3006772cb01ea4166c9e9e94a8bfbb_day3.pdf
 file_size: 33430
 file_type: application/pdf
 learning_resource_types:
