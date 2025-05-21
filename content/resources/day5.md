@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture handout on partner selection, the first day of lifting, and feedback.
-file: /ol-ocw-studio-app/courses/pe-720-weight-training-spring-2006/99b21c54d3bf10f1cdf38d6c9c4bf212_day5.pdf
+file: /courses/pe-720-weight-training-spring-2006/99b21c54d3bf10f1cdf38d6c9c4bf212_day5.pdf
 file_size: 24496
 file_type: application/pdf
 learning_resource_types:
