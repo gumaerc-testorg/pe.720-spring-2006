@@ -32,7 +32,7 @@ Videos
 Squat: First View
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4](http://www.archive.org/download/MITPE.720S06/squat_first_view-220k.mp4))
+({{% resource_link "571c1af7-ecd9-42ee-92a8-1fd6b65ecd6b" "MP4" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -41,7 +41,7 @@ Squat: First View
 Squat: Second View
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4 - 2MB](http://www.archive.org/download/MITPE.720S06/squat_second_view-220k.mp4))
+({{% resource_link "8b029b28-2503-4867-9668-3db2b7350425" "MP4 - 2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -50,7 +50,7 @@ Squat: Second View
 Squat: Third View
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4 - 2MB](http://www.archive.org/download/MITPE.720S06/squat_third_view-220k.mp4))
+({{% resource_link "a62bd85d-6b21-49ac-bf27-ef927946ae93" "MP4 - 2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -59,7 +59,7 @@ Squat: Third View
 Lunges: First View
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4 - 2MB](http://www.archive.org/download/MITPE.720S06/lunge_first_view-220k.mp4))
+({{% resource_link "2e81f1e8-e254-4304-9ea4-7ea6fb612c24" "MP4 - 2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -68,7 +68,7 @@ Lunges: First View
 Lunges: Second View
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4 - 2MB](http://www.archive.org/download/MITPE.720S06/lunge_second_view-220k.mp4))
+({{% resource_link "33b5eaed-ed0f-4ee2-969b-57a414977283" "MP4 - 2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -77,7 +77,7 @@ Lunges: Second View
 Leg Press
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4 - 2MB](http://www.archive.org/download/MITPE.720S06/leg_press-220k.mp4))
+({{% resource_link "dfb6cdcb-feb5-469b-82e9-2b887b4db038" "MP4 - 2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -86,7 +86,7 @@ Leg Press
 Stiff Legged Deadlift
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4 - 2MB](http://www.archive.org/download/MITPE.720S06/stiff_legged_deadlift-220k.mp4))
+({{% resource_link "7d16905c-035e-4c0b-b07b-912781759aea" "MP4 - 2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -95,7 +95,7 @@ Stiff Legged Deadlift
 Front Squat: Cross Grip
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4 - 2MB](http://www.archive.org/download/MITPE.720S06/front_squat_cross_grip-220k.mp4))
+({{% resource_link "05d5e5f4-4c21-439a-aef2-8a09c7e481dc" "MP4 - 2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -104,7 +104,7 @@ Front Squat: Cross Grip
 Front Squat: Olympic Grip
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4 - 2MB](http://www.archive.org/download/MITPE.720S06/front_squat_olymipic_grip-220k.mp4))
+({{% resource_link "f324ba21-03a5-480f-b4d0-b89b52fc9b54" "MP4 - 2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -113,7 +113,7 @@ Front Squat: Olympic Grip
 Front Squat: Using Straps
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4 - 4MB](http://www.archive.org/download/MITPE.720S06/front_squat_using_straps-220k.mp4))
+({{% resource_link "4d0f33e1-f819-41b6-9e29-15cd7521a7bb" "MP4 - 4MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -122,7 +122,7 @@ Front Squat: Using Straps
 Leg Extension
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4 - 3MB](http://www.archive.org/download/MITPE.720S06/leg_extension-220k.mp4))
+({{% resource_link "bb9f948b-517b-4ee0-b02a-7ea0c95e4943" "MP4 - 3MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -131,7 +131,7 @@ Leg Extension
 Leg Curl
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4 - 3MB](http://www.archive.org/download/MITPE.720S06/leg_curl-220k.mp4))
+({{% resource_link "150cb2d5-417f-4465-a913-ced0a6e3b9d1" "MP4 - 3MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -140,7 +140,7 @@ Leg Curl
 Standing Calf Raise
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4 - 2MB](http://www.archive.org/download/MITPE.720S06/standing_calf_raise-220k.mp4))
+({{% resource_link "3352e800-b7ce-457c-8206-50b71be43a5d" "MP4 - 2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -149,7 +149,7 @@ Standing Calf Raise
 Standing Calf Raise: Foot View
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4](http://www.archive.org/download/MITPE.720S06/standing_calf_raise_foot_view-220k.mp4))
+({{% resource_link "e9d5cb0f-a697-4303-a4da-a05b37c55689" "MP4" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -158,7 +158,7 @@ Standing Calf Raise: Foot View
 Seated Calf Raise: First View
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4](http://www.archive.org/download/MITPE.720S06/seated_calf_raise_first_view-220k.mp4))
+({{% resource_link "b2ce8291-97ef-404b-8eed-12f8892f2ff3" "MP4" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -167,7 +167,7 @@ Seated Calf Raise: First View
 Seated Calf Raise: Second View
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4](http://www.archive.org/download/MITPE.720S06/seated_calf_raise_second_view-220k.mp4))
+({{% resource_link "59bfbf47-ec72-4bc9-842b-f037ac0e1a8d" "MP4" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -176,7 +176,7 @@ Seated Calf Raise: Second View
 Leg Press Machine Calf Raise
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4](http://www.archive.org/download/MITPE.720S06/leg_press_machine_calf_raise-220k.mp4))
+({{% resource_link "efe6e0b5-f7b4-4654-aa6d-bc714b8cf09a" "MP4" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -191,7 +191,7 @@ Leg Press Machine Calf Raise
 Bench Press: First View
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4 - 2MB](http://www.archive.org/download/MITPE.720S06/bench_press_first_view-220k.mp4))
+({{% resource_link "1d504507-9662-4c52-bea3-672a40832568" "MP4 - 2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -200,7 +200,7 @@ Bench Press: First View
 Bench Press: Second View
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4 - 2MB](http://www.archive.org/download/MITPE.720S06/bench_press_second_view-220k.mp4))
+({{% resource_link "26cfa10e-9070-4dae-94f1-b31a0ad34b7c" "MP4 - 2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -209,7 +209,7 @@ Bench Press: Second View
 Decline Bench Press
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4 - 2MB](http://www.archive.org/download/MITPE.720S06/decline_bench_press-220k.mp4))
+({{% resource_link "fea790f0-a001-4c3b-87f8-24b3156803d3" "MP4 - 2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -218,7 +218,7 @@ Decline Bench Press
 Incline Bench Press: First View
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4](http://www.archive.org/download/MITPE.720S06/incline_bench_press_first_view-220k.mp4))
+({{% resource_link "8fdb2dec-dd60-4864-a884-6460b44b6cc0" "MP4" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -227,7 +227,7 @@ Incline Bench Press: First View
 Incline Bench Press: Second View
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4](http://www.archive.org/download/MITPE.720S06/incline_bench_press_second_view-220k.mp4))
+({{% resource_link "e66560ad-3f8a-49d7-97ca-79f7aad0f22a" "MP4" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -236,7 +236,7 @@ Incline Bench Press: Second View
 Incline Bench Press: Seat Adjustment
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4](http://www.archive.org/download/MITPE.720S06/incline_bench_press_seat_adjustment-220k.mp4))
+({{% resource_link "dc6347bf-f1d4-4b0f-a76a-8f4063cd9a90" "MP4" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -245,7 +245,7 @@ Incline Bench Press: Seat Adjustment
 Pulldown: Hammer Strength Machine
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4 - 3MB](http://www.archive.org/download/MITPE.720S06/pulldown_hammer_strength_machine-220k.mp4))
+({{% resource_link "172d10a6-244e-40ab-bd92-4b986e34f5f5" "MP4 - 3MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -254,7 +254,7 @@ Pulldown: Hammer Strength Machine
 Pulldown: Icarian Selectorized Machine
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4 - 2MB](http://www.archive.org/download/MITPE.720S06/pulldown_icarian_selectorized_machine-220k.mp4))
+({{% resource_link "109331d4-a1c1-4a66-b266-8cc8a934ed91" "MP4 - 2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -263,7 +263,7 @@ Pulldown: Icarian Selectorized Machine
 Chinup
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4](http://www.archive.org/download/MITPE.720S06/chinup-220k.mp4))
+({{% resource_link "4424f04c-f9ab-47c8-bdf2-73a98d28de0b" "MP4" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -272,7 +272,7 @@ Chinup
 Pullup with a Spotter
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4](http://www.archive.org/download/MITPE.720S06/pullup_with_a_spotter-220k.mp4))
+({{% resource_link "5eb13563-82f5-4594-a5dc-a0dd9fdd473b" "MP4" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -281,7 +281,7 @@ Pullup with a Spotter
 Seated Row: Various Grips
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4 - 3MB](http://www.archive.org/download/MITPE.720S06/seated_row_various_grips-220k.mp4))
+({{% resource_link "61aab615-f74e-42ba-a433-4f5e2ca70ba9" "MP4 - 3MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -290,7 +290,7 @@ Seated Row: Various Grips
 Long Row: First View
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4](http://www.archive.org/download/MITPE.720S06/long_row_first_view-220k.mp4))
+({{% resource_link "2c84e7e0-6b8f-42f1-a833-e169a62bade6" "MP4" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -299,7 +299,7 @@ Long Row: First View
 Long Row: Second View
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4](http://www.archive.org/download/MITPE.720S06/long_row_second_view-220k.mp4))
+({{% resource_link "63b64374-feb6-445c-98e6-0c1909947918" "MP4" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -308,7 +308,7 @@ Long Row: Second View
 Long Row: Alternate Attachment and Grip
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4 - 2MB](http://www.archive.org/download/MITPE.720S06/long_row_alternate_attachment_and_grip-220k.mp4))
+({{% resource_link "fb702cdf-37cb-4c42-8431-c78c9c7085df" "MP4 - 2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -317,7 +317,7 @@ Long Row: Alternate Attachment and Grip
 Bent Over Row: First View
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4](http://www.archive.org/download/MITPE.720S06/bent_over_row_first_view-220k.mp4))
+({{% resource_link "70047d87-5aa5-4c13-a5f6-61bd4c244255" "MP4" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -326,7 +326,7 @@ Bent Over Row: First View
 Bent Over Row: Second View
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4](http://www.archive.org/download/MITPE.720S06/bent_over_row_second_view-220k.mp4))
+({{% resource_link "d77cadbc-7930-4f3f-9283-ac83462885b4" "MP4" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -335,7 +335,7 @@ Bent Over Row: Second View
 Lateral Raise
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4 - 2MB](http://www.archive.org/download/MITPE.720S06/lateral_raise-220k.mp4))
+({{% resource_link "ae733b82-9eda-4880-9e52-e80179d996dc" "MP4 - 2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -344,7 +344,7 @@ Lateral Raise
 Dumbbell Lateral Raise
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4](http://www.archive.org/download/MITPE.720S06/dumbbell_lateral_raise-220k.mp4))
+({{% resource_link "ceded81d-ef51-4405-af35-490551795703" "MP4" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -353,7 +353,7 @@ Dumbbell Lateral Raise
 Upright Row
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4](http://www.archive.org/download/MITPE.720S06/upright_row-220k.mp4))
+({{% resource_link "c548885f-2495-4c3a-90f3-16f86770697e" "MP4" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -362,7 +362,7 @@ Upright Row
 Cable Crossover
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4 - 2MB](http://www.archive.org/download/MITPE.720S06/cable_crossover-220k.mp4))
+({{% resource_link "ebad8cc9-eac9-48ec-bb0c-c832f8667ad3" "MP4 - 2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -371,7 +371,7 @@ Cable Crossover
 Chest Flies
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4 - 3MB](http://www.archive.org/download/MITPE.720S06/chest_flies-220k.mp4))
+({{% resource_link "701ddb3b-4435-4db0-bb91-e26ec346517d" "MP4 - 3MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -386,7 +386,7 @@ Chest Flies
 Dumbbell Bicep Curl
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4](http://www.archive.org/download/MITPE.720S06/dumbbell_bicep_curl-220k.mp4))
+({{% resource_link "04235765-8dec-4b75-aac6-ef9bbf2afdc1" "MP4" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -395,7 +395,7 @@ Dumbbell Bicep Curl
 Dumbbell Tricep Skullcrusher
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4](http://www.archive.org/download/MITPE.720S06/dumbbell_tricep_skullcrasher-220k.mp4))
+({{% resource_link "0f4357ef-ebbd-4487-893a-0e1e0b11e84b" "MP4" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -404,7 +404,7 @@ Dumbbell Tricep Skullcrusher
 Tricep Pushdown
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4 - 2MB](http://www.archive.org/download/MITPE.720S06/tricep_pushdown-220k.mp4))
+({{% resource_link "096d73ac-abcd-4a4a-98eb-46b2117670de" "MP4 - 2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -413,7 +413,7 @@ Tricep Pushdown
 Bicep Curl: Icarian Selectorized Machine
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4 - 2MB](http://www.archive.org/download/MITPE.720S06/bicep_curl_icarian_selectorized_machine-220k.mp4))
+({{% resource_link "67b0da2d-8754-416f-8cb5-b1a53115c0c2" "MP4 - 2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

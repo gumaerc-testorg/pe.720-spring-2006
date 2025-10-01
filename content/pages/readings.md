@@ -22,13 +22,13 @@ Hartmann, J., and H. Tunnemann. *Fitness and Strength Training for All Sports*. 
 
 McArdle, William D., et al. *Exercise Physiology: Energy Nutrition and Human Performance*. Baltimore, MD: Lippincott Williams and Wilkins, 2001. ISBN: 9780781725446.
 
-Poliquin, Charles. *The German Body Comp Program*. Phoenix, AZ: [Poliquin Performance Centers](https://poliquinperformance.com/blogs/blog/use-german-body-comp-training-for-fat-loss), 2004. ASIN: B0011M76YE.
+Poliquin, Charles. *The German Body Comp Program*. Phoenix, AZ: {{% resource_link "7427fe7e-bd1d-41c9-9914-955b229059c5" "Poliquin Performance Centers" %}}, 2004. ASIN: B0011M76YE.
 
-———. *Modern Trends in Strength Training*. Phoenix, AZ: [Poliquin Performance Centers](http://www.ppcchicago.com/), 2001. ISBN: 9780970197917.
+———. *Modern Trends in Strength Training*. Phoenix, AZ: {{% resource_link "428acf3b-2020-4b92-be8a-3035556dc333" "Poliquin Performance Centers" %}}, 2001. ISBN: 9780970197917.
 
 ———. *The Poliquin Principles*. Napa, CA: Dayton Publications and Writer's Group, 1997. ISBN: 9780966275209.
 
-———. *Winning the Arms Race*. Phoenix, AZ: [Poliquin Performance Centers](http://www.ppcchicago.com/), 2001. ISBN: 9780970197900.
+———. *Winning the Arms Race*. Phoenix, AZ: {{% resource_link "428acf3b-2020-4b92-be8a-3035556dc333" "Poliquin Performance Centers" %}}, 2001. ISBN: 9780970197900.
 
 Siff, Mel. *Supertraining*. Denver, CO: Supertraining Institute, 2003. ISBN: 9781874856658.
 
